@@ -1,0 +1,65 @@
+---
+layout:     post
+title:      "S01 E02 - O que estamos lendo"
+subtitle:   "E a pilha de livros só cresce"
+date:       2012-02-21 12:25:00
+author:     "Todos os delegados"
+header-img: "img/post-bg-02.jpg"
+---
+
+
+<p>
+    Fala a&iacute;, escovadores de bits! Sejam bem vindos a mais um Delegado An&ocirc;nimo.
+</p>
+<p>
+    Hoje, Pequeno Padawan (<a href="http://www.twitter.com/fpanhan">@fpanhan</a>), Marcelo Palladino (<a href="http://www.twitter.com/mfpalladino">@mfpalladino</a>) e Cristiano Amorim (<a href="http://www.twitter.com/cristianosaa">@cristianosaa</a>)
+    falam sobre o que estão lendo.
+</p>
+<p>
+    Neste epis&oacute;dio, conhe&ccedil;a as opini&otilde;es dos delegados sobre os livros, confira os twitts novel&iacute;sticos do Palladino, o surpreendente sotoque franc&ecirc;s do Panhan e o indefect&iacute;vel gosto musical do Amorim. ;)
+</p>
+
+<h2 class="section-heading">Gloss&aacute;rio || Links || Dicas</h2>
+
+<ul>
+    <li><a href="http://en.wikipedia.org/wiki/Brownfield_%28software_development%29" target="_blank">Brownfield</a></li>
+    <li><a href="http://pt.wikipedia.org/wiki/Arduino" target="_blank">Arduino</a></li>
+    <li><a href="http://forums.netduino.com/index.php?/topic/275-compatible-shields-and-accessories/" target="_blank">Netduino Shields</a></li>
+    <li><a href="http://www.netmf.com/gadgeteer/" target="_blank">Iniciativa da Microsoft .NET Gadgeteer</a></li>
+    <li><a href="http://www.dotnetrocks.com/default.aspx?showNum=694" target="_blank">.NET Rocks Podcast Episódio sobre Microsoft .NET Gadgeteer</a></li>
+</ul>
+
+<h2 class="section-heading">Playlist:</h2>
+
+<ul>
+    <li>300 OST - Tyler Bates - Returns a King</li>
+    <li>Forrest Gump OST - Alan Silvestri - Forrest Gump Suite</li>
+    <li>Art of Motion - Andy McKee - Art of Motion</li>
+    <li>Top Gun OST - Harold Faltermeyer and Steve Stevens - Top Gun Anthem</li>
+    <li>American Beauty OST - Thomas Newman - Dead Already</li>
+    <li>Tron Legacy OST - Daft Punk - The Son of Flynn</li>
+    <li>Rob D - Clubbed To Death (Kurayamino Mix)</li>
+    <li>The Crystal Method - Keep Hope Alive</li>
+    <li>The E.N.D - The Black Eyed Peas - I Gotta Feeling</li>
+</ul>
+
+<h2 class="section-heading">Comente!</h2>
+
+<p>
+    N&oacute;s adorar&iacute;amos conhecer suas opini&otilde;es sobre nosso programa. Por isso, sinta-se a vontade para deixar seu coment&aacute;rio ou nos enviar um e-mail com suas (opini&otilde;es || cr&iacute;ticas || sugest&otilde;es).
+</p>
+
+<ul>
+    <li>Email: <a href="mailto:delegadoanonimopodcast@gmail.com">delegadoanonimopodcast@gmail.com</a></li>
+    <li>Twitter: <a href="http://www.twitter.com/delegadoanonimo">@delegadoanonimo</a></li>
+    <li>Facebook: <a href="http://www.facebook.com/delegadoanonimo">@delegadoanonimo</a></li>
+    <li>Google+: Quem usa isto?</li>
+</ul>
+
+<p>
+    <audio controls>
+        <source src="http://media.blubrry.com/delegadoanonimo/www.archive.org/download/DelegadoAnnimoS01E02-OQueEstamosLendo/02DelegadoAnonimoS01E02-OqueEstamosLendo.mp3" type="audio/mpeg">
+        Aparentemente seu browser n&atilde;o suporta &aacute;udio.
+    </audio>
+</p>
+
