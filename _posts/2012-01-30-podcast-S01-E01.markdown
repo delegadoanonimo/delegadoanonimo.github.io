@@ -1,0 +1,56 @@
+---
+layout:     post
+title:      "S01 E01 - Sem coment&aacute;rios..."
+subtitle:   "/*Isto é um comentário*/"
+date:       2012-01-30 10:20:00
+author:     "Todos os delegados"
+header-img: "img/post-bg-01.jpg"
+---
+
+
+<p>
+    Fala a&iacute;, escovadores de bits! Sejam bem vindos ao primeiro epis&oacute;dio do Delegado An&ocirc;nimo, um podcast totalmente dedicado a discutir assuntos relacionados &agrave; divertida tarefa de escrever programas para computadores.
+</p>
+<p>
+    Hoje, Pequeno Padawan (<a href="http://www.twitter.com/fpanhan">@fpanhan</a>), Marcelo Palladino (<a href="http://www.twitter.com/mfpalladino">@mfpalladino</a>) e Cristiano Amorim (<a href="http://www.twitter.com/cristianosaa">@cristianosaa</a>) falam sobre o que fazer e,
+    principalmente, n&atilde;o fazer quando o assunto &eacute; comentar c&oacute;digo.
+</p>
+<p>
+    Ainda neste epis&oacute;dio, aprenda uma forma de identificar um projeto Titanic e compartilhe uma hist&oacute;ria de
+    um verdadeiro exorcista de c&oacute;digos. :-D 
+</p>
+
+<h2 class="section-heading">Livros usados como refer&ecirc;ncia</h2>
+
+<ul>
+    <li>Clean Code, cap&iacute;tulo 4 (Robert C. Martin)</li>
+    <li>Code Complete, cap&iacute;tulo 31 (Steve McConnell) </li>
+</ul>
+
+<h2 class="section-heading">Gloss&aacute;rio || Links || Dicas</h2>
+
+<ul>
+    <li>SoC (Separation of Concern)</li>
+    <li>SRP (O princ&iacute;pio da responsabilidade &uacute;nica)</li>
+</ul>
+
+<h2 class="section-heading">Comente!</h2>
+
+<p>
+    N&oacute;s adorar&iacute;amos conhecer suas opini&otilde;es sobre nosso programa. Por isso, sinta-se a vontade para deixar seu coment&aacute;rio ou nos enviar um e-mail com suas (opini&otilde;es || cr&iacute;ticas || sugest&otilde;es).
+</p>
+
+<ul>
+    <li>Email: <a href="mailto:delegadoanonimopodcast@gmail.com">delegadoanonimopodcast@gmail.com</a></li>
+    <li>Twitter: <a href="http://www.twitter.com/delegadoanonimo">@delegadoanonimo</a></li>
+    <li>Facebook: <a href="http://www.facebook.com/delegadoanonimo">@delegadoanonimo</a></li>
+    <li>Google+: Quem usa isto?</li>
+</ul>
+
+<p>
+    <audio controls>
+      <source src="http://media.blubrry.com/delegadoanonimo/www.archive.org/download/DelegadoAnnimoS01e01-SemComentrios/01DelegadoAnonimoS01E01-Semcomentarios.mp3" type="audio/mpeg">
+      Aparentemente seu browser n&atilde;o suporta &aacute;udio.
+    </audio>
+</p>
+
