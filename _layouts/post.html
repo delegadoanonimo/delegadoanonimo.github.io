@@ -18,33 +18,85 @@ layout: default
         </div>
     </div>
 </header>
-
 <!-- Post Content -->
 <article>
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-
-				{{ content }}
+                {{ content }}
 
                 <hr>
+                <div class="postfooter">
+                    <span class="postfooterTitle">Postado por: {{ page.author }} em {{ page.date | date: "%d-%m-%Y" }}</span>
+                    <br />
+                    <span class="postfooterTitle">Marcadores:</span>
+                    <ul class="tags">
+                        {% for tags in page.tags %}
+                        <li>{{ tags }}</li>
+                        {% endfor %}
+                    </ul>
 
+                    <div class="custom-social-buttons">
+                        <div class="share-buttons-label">
+                        </div>
+                        <div class="custom-social-button twitter">
+                            <a id="twitter-link" href="#"><i class="fa fa-twitter"></i></a>
+                        </div>
+                        <div class="custom-social-button facebook">
+                            <a id="facebook-link" href="#"><i class="fa fa-facebook"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <hr>
                 <ul class="pager">
                     {% if page.previous.url %}
                     <li class="previous">
-                        <a href="{{ site.baseurl }}/{{page.previous.url}}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Post anterior</a> 
+                        <a href="{{ site.baseurl }}/{{page.previous.url}}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Post anterior</a>
                     </li>
-                    {% endif %} 
+                    {% endif %}
                     {% if page.next.url %}
                     <li class="next">
                         <a href="{{ site.baseurl }}/{{page.next.url}}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Pr&oacute;ximo post &rarr;</a>
                     </li>
-                    {% endif %} 
+                    {% endif %}
                 </ul>
-
             </div>
         </div>
     </div>
 </article>
-
 <hr>
+
+<script type="text/javascript">
+    window.onload = function () {
+        var blogDomain = "http%3A%2F%2Fdelegadoanonimo.github.io" + "%2F";
+        var pageTitle = "{{ page.titleToShare }}";
+        var pageTitleDashes = pageTitle.replace(/ /g, '-') + "%2F&amp;";
+        var pageTitleSpaces = pageTitle.replace(/ /g, '%20') + "&amp;";
+        var pageDateShort = "{{ page.dateShort }}";
+        var pageDateShortSlashes = pageDateShort.replace(/-/g, '%2F') + "%2F";
+
+        var twitterPartOne = "https://twitter.com/intent/tweet?original_referer=";
+        var twitterPartTwo = "text=";
+        var twitterPartThree = "tw_p=tweetbutton&amp;url=";
+        var twitterPartFour = "via=delegadoanonimo";
+        var twitterUrl = twitterPartOne + blogDomain + pageDateShortSlashes + pageTitle + twitterPartTwo + pageTitleSpaces + twitterPartThree + blogDomain + pageDateShortSlashes + pageTitleDashes + twitterPartFour;
+        var twitterLink = window.document.getElementById("twitter-link");
+        twitterLink.onclick = function () {
+            var popUp = window.open(twitterUrl, 'popupwindow', 'scrollbars=yes,width=600,height=400');
+            popUp.focus();
+            return false;
+        };
+
+        var facebookPartOne = "https://www.facebook.com/sharer/sharer.php?u=";
+        var facebookPartTwo = "&title=";
+        var facebookPartFour = "&source=";
+        var facebookUrl = facebookPartOne + blogDomain + pageDateShortSlashes + pageTitleDashes + facebookPartTwo + pageTitleSpaces + facebookPartFour;
+        var facebookLink = window.document.getElementById("facebook-link");
+        facebookLink.onclick = function () {
+            var popUp = window.open(facebookUrl, 'popupwindow', 'scrollbars=yes,width=600,height=400');
+            popUp.focus();
+            return false;
+        };
+    };
+</script>
