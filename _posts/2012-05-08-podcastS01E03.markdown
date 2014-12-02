@@ -1,0 +1,35 @@
+---
+layout:     post
+title:      "S01 E03 - Design Patterns"
+subtitle:   "O GoF &eacute; pop, o GoF n&atilde;o poupa ningu&eacute;m"
+date:       2012-05-08 21:53:00
+author:     "Todos os delegados"
+header-img: "img/post-bg-02.jpg"
+---
+
+
+<p>
+    Fala a&iacute;, escovadores de bits! Sejam bem vindos a mais um Delegado An&ocirc;nimo.
+</p>
+
+
+<h2 class="section-heading">Comente!</h2>
+
+<p>
+    N&oacute;s adorar&iacute;amos conhecer suas opini&otilde;es sobre nosso programa. Por isso, sinta-se a vontade para deixar seu coment&aacute;rio ou nos enviar um e-mail com suas (opini&otilde;es || cr&iacute;ticas || sugest&otilde;es).
+</p>
+
+<ul>
+    <li>Email: <a href="mailto:delegadoanonimopodcast@gmail.com">delegadoanonimopodcast@gmail.com</a></li>
+    <li>Twitter: <a href="http://www.twitter.com/delegadoanonimo">@delegadoanonimo</a></li>
+    <li>Facebook: <a href="http://www.facebook.com/delegadoanonimo">fb.me/delegadoanonimo</a></li>
+    <li>Google+: Quem usa isto?</li>
+</ul>
+
+<p>
+    <audio controls>
+        <source src="http://media.blubrry.com/delegadoanonimo/www.archive.org/download/S01E03-PadresDeProjeto/03DelegadoAnonimoS01E03-DesignPatterns.mp3" type="audio/mpeg">
+        Aparentemente seu browser n&atilde;o suporta &aacute;udio.
+    </audio>
+</p>
+
