@@ -1,10 +1,27 @@
 ---
 layout:     post
 title:      "S01 E02 - O que estamos lendo"
+titleToShare: "podcastS01E02"
 subtitle:   "E a pilha de livros só cresce"
-date:       2012-02-21 12:25:00
+date:       2012-02-21 12:25
+dateShort:  "2012-02-21"
 author:     "Todos os delegados"
 header-img: "img/post-bg-02.jpg"
+tags:
+- .NET Gadgeteer, 
+- .NET Micro Framework, 
+- .NET Rocks Podcast, 
+- Andrew Hunt, Arduino, 
+- Clean Code, 
+- Code Complete, 
+- David Thomas, 
+- DDD, 
+- Eric Evans, 
+- Netduino, 
+- Podcast, 
+- Programador Pragmático, 
+- Steve McConnell, 
+- Uncle Bob
 ---
 
 
