@@ -4,32 +4,70 @@ title:      "S01 E03 - Design Patterns"
 subtitle:   "O GoF &eacute; pop, o GoF n&atilde;o poupa ningu&eacute;m"
 date:       2012-05-08 21:53:00
 author:     "Todos os delegados"
-header-img: "img/post-bg-02.jpg"
+header-img: "img/post-bg-03.jpg"
 ---
 
+<p>Fala a&iacute;, escovadores de bits! Sejam bem vindos a mais um Delegado An&ocirc;nimo.</p>
+<p>Hoje, Pequeno Padawan (<a href="http://www.twitter.com/fpanhan">@fpanhan</a>), Marcelo Palladino (<a href="http://www.twitter.com/mfpalladino">@mfpalladino</a>) e Cristiano Amorim (<a href="http://www.twitter.com/cristianosaa">@cristianosaa</a>) falam sobre Padr&otilde;es de Projeto.</p>
+<p>Neste epis&oacute;dio, saiba um pouco mais sobre a hist&oacute;ria dos padr&otilde;es de projeto, quais s&atilde;o as vantagens do vocabul&aacute;rio compartilhado e conhe&ccedil;a a nova epidemia que assola a humanidade: a &quot;paternice aguda&quot;.</p>
+<p>Al&eacute;m disto, saiba como invadir um coffe-break alheio, conhe&ccedil;a o padr&atilde;o &quot;X-Alex&quot; e a nova resposta para a pergunta fundamental sobre a vida, o universo e tudo mais. ;-)</p>
+<h2 class="section-heading">Gloss&aacute;rio || Links || Dicas</h2>
+<ul>
+    <li>
+        <a href="http://voidpodcast.com/" target="_blank">Void Podcast</a>
+    </li>
+    <li>
+        <a href="http://elemarjr.net/" target="_blank">Elemar Jr.</a>
+    </li>
+    <li>
+        <a href="http://www.patternlanguage.com/" target="_blank">A Pattern Language. Christopher Alexander.</a>
+    </li>
+    <li>
+        <a href="http://en.wikipedia.org/wiki/Design_Patterns" target="_blank">GoF</a>
+    </li>
+    <li>
+        <a href="http://en.wikipedia.org/wiki/Erich_Gamma" target="_blank">Erich Gamma</a>
+    </li>
+    <li>
+        <a href="http://c2.com/cgi/wiki?RichardHelm" target="_blank">Richard Helm</a>
+    </li>
+    <li>
+        <a href="http://en.wikipedia.org/wiki/Ralph_Johnson_%28computer_scientist%29" target="_blank">Ralph Johnson</a>
+    </li>
+    <li>
+        <a href="http://en.wikipedia.org/wiki/John_Vlissides" target="_blank">John Vlissides</a>
+    </li>
+    <li>
+        <a href="http://en.wikipedia.org/wiki/OOPSLA" target="_blank">OOPSLA</a>
+    </li>
+</ul>
+<h2 class="section-heading">Playlist:</h2>
+<ul>
+    <li>Skyrim OST - Jeremy Soule - Dragonborn (Main Theme)</li>
+    <li>Rihanna - We Found Love (Feat. Calvin Harris)</li>
+    <li>Billy Idol - Dancing with myself</li>
+    <li>Audioslave - Like a Stone</li>
+    <li>Jennifer Lopez - Dance Again (Feat. Pitbull)</li>
+    <li>Katy Perry - Part of Me</li>
+    <li>Coldplay - Paradise</li>
+    <li>David Guetta feat. Nicki Minaj & Flo Rida - Where Them Girls At</li>
+</ul>
 
-<p>
-    Fala a&iacute;, escovadores de bits! Sejam bem vindos a mais um Delegado An&ocirc;nimo.
-</p>
-
+<p><strong>Dura&ccedil;&atilde;o:</strong> 33 minutos (~ 31 Mb)</p>
 
 <h2 class="section-heading">Comente!</h2>
-
 <p>
     N&oacute;s adorar&iacute;amos conhecer suas opini&otilde;es sobre nosso programa. Por isso, sinta-se a vontade para deixar seu coment&aacute;rio ou nos enviar um e-mail com suas (opini&otilde;es || cr&iacute;ticas || sugest&otilde;es).
 </p>
-
 <ul>
     <li>Email: <a href="mailto:delegadoanonimopodcast@gmail.com">delegadoanonimopodcast@gmail.com</a></li>
     <li>Twitter: <a href="http://www.twitter.com/delegadoanonimo">@delegadoanonimo</a></li>
     <li>Facebook: <a href="http://www.facebook.com/delegadoanonimo">fb.me/delegadoanonimo</a></li>
     <li>Google+: Quem usa isto?</li>
 </ul>
-
 <p>
     <audio controls>
         <source src="http://media.blubrry.com/delegadoanonimo/www.archive.org/download/S01E03-PadresDeProjeto/03DelegadoAnonimoS01E03-DesignPatterns.mp3" type="audio/mpeg">
         Aparentemente seu browser n&atilde;o suporta &aacute;udio.
     </audio>
 </p>
-
