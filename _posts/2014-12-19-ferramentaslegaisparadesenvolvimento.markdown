@@ -59,16 +59,12 @@ tags:
     Ent&atilde;o &quot;b&oacute;ra&quot; l&aacute; fazer um teste r&aacute;pido no JSFiddle. No painel HTML, coloque o seguinte c&oacute;digo:
 </p>
 
-<p>CODE</p>
-<p>
-
 {% highlight html linenos %}
 <span class="coolBar let-a"></span>  
 <span class="coolBar let-b"></span>  
 <span class="coolBar let-c"></span>  
 {% endhighlight %}
 
-</p>
 <p>
     No painel de Javascript:
 </p>
