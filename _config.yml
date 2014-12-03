@@ -11,7 +11,7 @@ facebook_username:  DelegadoAnonimo
 # Build settings
 encoding: UTF-8
 markdown: kramdown
-highlighter: pygments
+highlighter: false
 permalink: pretty
 paginate: 5
 exclude: ["node_modules"]
