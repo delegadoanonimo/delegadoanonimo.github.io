@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Ferramentas legais para desenvolvimento WEB: JSFiddle"
-titleToShare: "ferramentaslegaisparadesenvolvimento"
+titleToShare: "ferramentas-legais-para-desenvolvimento"
 subtitle:   "JSFiddle, meu amigo zumbi (n&atilde;o, p&eacute;ra...)"
 date:       2014-11-19 07:33:00
 dateShort:  "2014-11-19"
