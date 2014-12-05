@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Axiomas"
-titleToShare: "axiomas"
+titleToShare: "axiomas-insonia"
 subtitle:   "(Ou um programador com ins&ocirc;nia)"
 date:       2013-08-02 23:38:00
 dateShort:  "2013-08-02"
