@@ -3,8 +3,8 @@ layout:     post
 title:      "Ferramentas legais para desenvolvimento WEB: JSFiddle"
 titleToShare: "ferramentaslegaisparadesenvolvimento"
 subtitle:   "JSFiddle, meu amigo zumbi (n&atilde;o, p&eacute;ra...)"
-date:       2014-12-19 07:33:00
-dateShort:  "2014-12-19"
+date:       2014-11-19 07:33:00
+dateShort:  "2014-11-19"
 author:     "Marcelo Palladino"
 header-img: "img/post-bg-ferramentaslegaisparadesenvolvimento1.jpg"
 tags:
