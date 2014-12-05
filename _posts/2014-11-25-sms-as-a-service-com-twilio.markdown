@@ -4,7 +4,7 @@ title:      "SMS as a Service em .NET com Twilio"
 titleToShare: "sms-as-a-service-com-twilio"
 subtitle:   "Everything as a service..."
 date:       2014-11-25 10:33:00
-dateShort:  "2014-11-19"
+dateShort:  "2014-11-25"
 author:     "Marcelo Palladino"
 header-img: "img/post-bg-sms-as-a-service-com-twilio.jpg"
 tags:
