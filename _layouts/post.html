@@ -21,15 +21,17 @@ layout: default
 <!-- Post Content -->
 <article>
 
-    <div class="follow" style="display:none;">
-        <small>Procure o <a target="_blank" href="http://twitter.com/delegadoanonimo">@delegadoanonimo</a> no Twitter e venha bater um papo conosco.</small>
+    <aside class="sidebar">
 
-        <div class="byline">
-            <img src="{{ site.url }}/img/{{ page.imageAuthor }}" style="max-height:20%;max-width:20%" class="img-responsive">
-            <span>{{ page.author }} no twitter: <a target="_blank" href="http://twitter.com/{{ page.twitterAuthor }}">twitter.com/{{ page.twitterAuthor }}</a>.</span>
-        </div>
+        {% if page.author == "Marcelo Palladino" %}
+        {% include marcelopalladino.html %}
+        {% elsif page.author == "Fabricio Panhan" %}
+        {% include fabriciopanhan.html %}
+        {% elsif page.author == "Delegados" %}
+        {% include delegados.html %}
+        {% endif %}
 
-    </div>
+    </aside>
 
     <div class="container">
         <div class="row">

@@ -1040,15 +1040,6 @@ jQuery(document).ready(function($) {
                     if (currentTop > headerHeight && !$('.navbar-custom').hasClass('is-fixed')) $('.navbar-custom').addClass('is-fixed');
                 }
                 this.previousTop = currentTop;
-
-                if ($(window).width() > MQL) {
-                    if (currentTop > 500)
-                        $('.follow').show();
-                    else
-                        $('.follow').hide();
-                }
             });
-    } else {
-        $('.follow').hide();
     }
 });
