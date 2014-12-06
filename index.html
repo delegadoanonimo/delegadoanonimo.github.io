@@ -26,12 +26,12 @@ header-img: "img/home-bg.jpg"
 <ul class="pager">
     {% if paginator.previous_page %}
     <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Posts mais novos</a>
+        <a href="{{ paginator.previous_page_path | replace: '//', '/' }}">&larr; Posts mais novos</a>
     </li>
     {% endif %}
     {% if paginator.next_page %}
     <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Posts mais antigos &rarr;</a>
+        <a href="{{ paginator.next_page_path | replace: '//', '/' }}">Posts mais antigos &rarr;</a>
     </li>
     {% endif %}
 </ul>
