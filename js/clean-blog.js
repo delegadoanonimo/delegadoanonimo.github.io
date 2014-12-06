@@ -1031,12 +1031,24 @@ jQuery(document).ready(function($) {
                     } else {
                         $('.navbar-custom').removeClass('is-visible is-fixed');
                     }
+
+
                 } else {
                     //if scrolling down...
+
                     $('.navbar-custom').removeClass('is-visible');
                     if (currentTop > headerHeight && !$('.navbar-custom').hasClass('is-fixed')) $('.navbar-custom').addClass('is-fixed');
                 }
                 this.previousTop = currentTop;
+
+                if ($(window).width() > MQL) {
+                    if (currentTop > 500)
+                        $('.follow').show();
+                    else
+                        $('.follow').hide();
+                }
             });
+    } else {
+        $('.follow').hide();
     }
 });

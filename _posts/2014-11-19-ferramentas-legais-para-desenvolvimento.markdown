@@ -6,6 +6,8 @@ subtitle:   "JSFiddle, meu amigo zumbi (n&atilde;o, p&eacute;ra...)"
 date:       2014-11-19 07:33:00
 dateShort:  "2014-11-19"
 author:     "Marcelo Palladino"
+twitterAuthor: "mfpalladino"
+imageAuthor: "marcelopalladino.jpg"
 header-img: "img/post-bg-ferramentaslegaisparadesenvolvimento1.jpg"
 tags:
 - CSS3,

@@ -6,6 +6,8 @@ subtitle:   "Everything as a service..."
 date:       2014-11-25 10:33:00
 dateShort:  "2014-11-25"
 author:     "Marcelo Palladino"
+twitterAuthor: "mfpalladino"
+imageAuthor: "marcelopalladino.jpg"
 header-img: "img/post-bg-sms-as-a-service-com-twilio.jpg"
 tags:
 - ASP.NET MVC,

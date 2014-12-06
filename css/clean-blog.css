@@ -115,8 +115,62 @@ hr.small {
  	color: #555;
  	font-weight: bold;
 }
+ .follow {
+    display: none;
+    position: fixed;
+    width: 20%;
+    right: 1%;
+     top: 30px;
+    background-color: white;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    padding: 20px;
+    height: 30%;
+    line-height: 15px;
+}
+
+.follow small {
+    font-size: 70%;
+    color: #808080;
+}
+.follow a {
+    color: #0085a1;
+}
+.follow .byline {
+    margin-top: 30px;
+border-top-color: #eeeeee;
+border-top-style: solid;
+border-top-width: 1px;
+    padding-top: 20px;
+
+}
+
+    .follow img {
+        border: 1px solid #FFF;
+        -moz-box-shadow: 0 2px 4px rgba(0,0,0,0.6);
+        -webkit-box-shadow: 0 2px 4px rgba(0,0,0,0.6);
+        -ms-box-shadow: 0 2px 4px rgba(0,0,0,0.6);
+        box-shadow: 0 2px 4px rgba(0,0,0,0.6);
+        -moz-border-radius: 70%;
+        -webkit-border-radius: 70%;
+        border-radius: 70%;
+        float: left;
+        margin-right: 20px;
+        -webkit-filter: grayscale(80%);
+        -moz-filter: grayscale(80%);
+        filter: grayscale(80%);
+    }
+
+    .follow span {
+    font-size: 60%;
+    color: #808080;
+}
+
+
 
 @media only screen and (min-width: 768px) {
+    
   .navbar-custom {
     background: transparent;
     border-bottom: 1px solid transparent;
@@ -139,6 +193,7 @@ hr.small {
   }
 }
 @media only screen and (min-width: 1170px) {
+    
   .navbar-custom {
     -webkit-transition: background-color 0.3s;
     -moz-transition: background-color 0.3s;
@@ -202,9 +257,11 @@ hr.small {
   color: white;
 }
 @media only screen and (min-width: 768px) {
+
   .intro-header .site-heading,
   .intro-header .post-heading,
   .intro-header .page-heading {
+      
     padding: 150px 0;
   }
 }
@@ -227,6 +284,7 @@ hr.small {
   margin: 10px 0 0;
 }
 @media only screen and (min-width: 768px) {
+
   .intro-header .site-heading h1,
   .intro-header .page-heading h1 {
     font-size: 80px;
@@ -452,4 +510,8 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #0085a1;
+}
+
+@media only screen and (min-width: 1300px) {
+    .follow {display: inherit;}
 }

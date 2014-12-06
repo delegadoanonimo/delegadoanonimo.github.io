@@ -5,7 +5,9 @@ titleToShare: "podcastS01E01"
 subtitle:   "/*Isto é um comentário*/"
 date:       2012-01-30 10:20
 dateShort:  "2012-01-30"
-author:     "Todos os delegados"
+author:     "Delegados"
+twitterAuthor: "delegadoanonimo"
+imageAuthor: "delegadoanonimo.jpg"
 header-img: "img/post-bg-01.jpg"
 tags:
 - Clean Code,
