@@ -87,6 +87,18 @@ hr.small {
             color: #33aaff;
         }
 
+.references {
+    padding-top: 10px;
+    border-top: #eeeeee thin solid;
+}
+.references ul {
+    list-style-type: none;
+    font-size: 55%;
+}
+
+.references small {
+    font-size: 65%;    
+}
 
 .share-buttons-label {
     color: #ccc;
