@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "O que &eacute; d&iacute;vida t&eacute;cnica"
+title:      "O que &eacute; d&iacute;vida t&eacute;cnica?"
 titleToShare: "o-que-e-divida-tecnica"
 subtitle:   "Devo, n&atilde;o nego..."
 date:       2014-11-28 08:48:00
