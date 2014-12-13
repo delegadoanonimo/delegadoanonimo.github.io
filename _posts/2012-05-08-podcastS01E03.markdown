@@ -8,7 +8,7 @@ keywords: "Design Patterns, Rich Gamma, Elemar, Jr., GoF, Richard Helm, John Vli
 date:       2012-05-08 21:53:00
 dateShort:  "2012-05-08"
 author:     "Delegados"
-header-img: "img/post-bg-03.jpg"
+header-img: "img/2014-12/post-bg-03.jpg"
 tags:
 - Design Patterns,
 - Elemar Jr.,

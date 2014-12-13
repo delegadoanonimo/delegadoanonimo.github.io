@@ -8,7 +8,7 @@ keywords: "SMS, C#, .NET, Twilio, Nuget"
 date:       2014-11-25 10:33:00
 dateShort:  "2014-11-25"
 author:     "Marcelo Palladino"
-header-img: "img/post-bg-sms-as-a-service-com-twilio.jpg"
+header-img: "img/2014-12/post-bg-sms-as-a-service-com-twilio.jpg"
 tags:
 - ASP.NET MVC,
 - C#,
@@ -32,7 +32,7 @@ tags:
 
 <p><a href="https://www.twilio.com/" target="_blank">https://www.twilio.com/</a></p>
 
-<img src="{{ site.url }}/img/twilio_1.png" alt="P&aacute;gina inicial do Twilio" class="img-responsive center-block">
+<img src="{{ site.url }}/img/2014-12/twilio_1.png" alt="P&aacute;gina inicial do Twilio" class="img-responsive center-block">
 
 <h2 class="section-heading">Sobre o servi&ccedil;o</h2>
 
@@ -48,7 +48,7 @@ tags:
     2-&Oacute;timo log de mensagens e dashboard para acompanhamento do servi&ccedil;o. No log voc&ecirc; consegue visualizar o custo de cada mensagem, se a ela foi quebrada em mais de um SMS, se houve erro na entrega e assim por diante.
 </p>
 
-<img src="{{ site.url }}/img/twilio_2.png" alt="Log de mensagens enviadas" class="img-responsive center-block">
+<img src="{{ site.url }}/img/2014-12/twilio_2.png" alt="Log de mensagens enviadas" class="img-responsive center-block">
 
 
 <p>
@@ -56,7 +56,7 @@ tags:
 </p>
 
 
-<img src="{{ site.url }}/img/twilio_3.png" alt="Visualiza&ccedil;&atilde;o dos detalhes de cobran&ccedil;a" class="img-responsive center-block">
+<img src="{{ site.url }}/img/2014-12/twilio_3.png" alt="Visualiza&ccedil;&atilde;o dos detalhes de cobran&ccedil;a" class="img-responsive center-block">
 
 <p>
     Ainda nesta parte de cobran&ccedil;a, o servi&ccedil;o possui algumas possibilidades uteis, como a notifica&ccedil;&atilde;o por email quando o saldo estiver abaixo de X d&oacute;lares e a auto recarga para evitar que o servi&ccedil;o pare por falta de saldo. Esta &uacute;ltima funcionalidade &eacute; excelente e dos servi&ccedil;os que implementei, o twilio era um dos &uacute;nicos que fazia isso. Alguns servi&ccedil;os no Brasil exigem, acredite se quiser, liga&ccedil;&otilde;es telef&ocirc;nicas e at&eacute; pagamento de boletos (como &uacute;nica op&ccedil;&atilde;o) para iniciar a brincadeira. A&iacute; &eacute; osso...
@@ -66,7 +66,7 @@ tags:
     4-Suporte a credenciais para testes. Isso parece simples, mas a julgar por outros servi&ccedil;os, a solu&ccedil;&atilde;o do twilio &eacute; &oacute;tima. Quando voc&ecirc; faz a contrata&ccedil;&atilde;o, o servi&ccedil;o lhe oferece duas credenciais: uma de produ&ccedil;&atilde;o e outra para testes. As credenciais de testes funcionam exatamente igual as de produ&ccedil;&atilde;o, mas n&atilde;o geram cobran&ccedil;a. Isso &eacute; &oacute;timo para execu&ccedil;&atilde;o de testes de integra&ccedil;&atilde;o.
 </p>
 
-<img src="{{ site.url }}/img/twilio_4.png" alt="Credenciais para ambientes de produ&ccedil;&atilde;o e testes" class="img-responsive center-block">
+<img src="{{ site.url }}/img/2014-12/twilio_4.png" alt="Credenciais para ambientes de produ&ccedil;&atilde;o e testes" class="img-responsive center-block">
 
 
 <h2 class="section-heading">Um pouco de m&atilde;o na massa</h2>
@@ -80,7 +80,7 @@ tags:
 </p>
 
 
-<img src="{{ site.url }}/img/twilio_5.png" alt="Instalando o pacote do Twilio" class="img-responsive center-block">
+<img src="{{ site.url }}/img/2014-12/twilio_5.png" alt="Instalando o pacote do Twilio" class="img-responsive center-block">
 
 <p>
     2-Depois disso, crie uma view para receber os dados referentes &agrave;s credenciais do twilio,
@@ -138,7 +138,7 @@ tags:
 {% endhighlight %}
 
 
-<img src="{{ site.url }}/img/twilio_6.png" alt="Uma chamada do servi&ccedil;o com dados v&aacute;lidos" class="img-responsive center-block">
+<img src="{{ site.url }}/img/2014-12/twilio_6.png" alt="Uma chamada do servi&ccedil;o com dados v&aacute;lidos" class="img-responsive center-block">
 
 <p>
     3-No controller, a coisa toda se resume a isso:
@@ -180,9 +180,9 @@ namespace TwilioSample.Controllers
     Note que o m&eacute;todo SendMessage do Twilio retorna uma inst&acirc;ncia da classe Message, que dentre outras coisas, retorna a exce&ccedil;&atilde;o (se houver).
 </p>
 
-<img src="{{ site.url }}/img/twilio_7.png" alt="Log do twilio mostrando os detalhes da mensagem enviada" class="img-responsive center-block">
+<img src="{{ site.url }}/img/2014-12/twilio_7.png" alt="Log do twilio mostrando os detalhes da mensagem enviada" class="img-responsive center-block">
 
-<img src="{{ site.url }}/img/twilio_8.png" alt="Mensagem no log do Twilio" class="img-responsive center-block">
+<img src="{{ site.url }}/img/2014-12/twilio_8.png" alt="Mensagem no log do Twilio" class="img-responsive center-block">
 
 
 <p>

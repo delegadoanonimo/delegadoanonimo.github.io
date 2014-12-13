@@ -8,7 +8,7 @@ subtitle:   "(Ou um programador com ins&ocirc;nia)"
 date:       2013-08-02 23:38:00
 dateShort:  "2013-08-02"
 author:     "Fabricio Panhan"
-header-img: "img/post-bg-axiomas.jpg"
+header-img: "img/2014-12/post-bg-axiomas.jpg"
 tags:
 ---
 
