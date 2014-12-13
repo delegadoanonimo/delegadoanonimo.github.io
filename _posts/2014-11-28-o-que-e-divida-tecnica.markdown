@@ -3,6 +3,8 @@ layout:     post
 title:      "O que &eacute; d&iacute;vida t&eacute;cnica?"
 titleToShare: "o-que-e-divida-tecnica"
 subtitle:   "Devo, n&atilde;o nego..."
+description: "Falando sobre D&iacute;vida T&eacute;cnica em desenvolvimento de software."
+keywords: "C&oacute;digo ruim, D&iacute;vida t&eacute;cnica, Qualidade de software, Steve McConnell, Ward Cunnigham"
 date:       2014-11-28 08:48:00
 dateShort:  "2014-11-28"
 author:     "Fabricio Panhan"

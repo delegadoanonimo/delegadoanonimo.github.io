@@ -3,6 +3,8 @@ layout:     post
 title:      "Ferramentas legais para desenvolvimento WEB: JSFiddle"
 titleToShare: "ferramentas-legais-para-desenvolvimento"
 subtitle:   "JSFiddle, meu amigo zumbi (n&atilde;o, p&eacute;ra...)"
+description: "Falando sobre ferramentas para desenvolvimento WEB e JSFiddle."
+keywords: "JSFiddle, CSS3, Ferramentas para desenvolvimento, HTML5, HTML, JavaScript, JScript"
 date:       2014-11-19 07:33:00
 dateShort:  "2014-11-19"
 author:     "Marcelo Palladino"

@@ -3,6 +3,8 @@ layout:     post
 title:      "SMS as a Service em .NET com Twilio"
 titleToShare: "sms-as-a-service-com-twilio"
 subtitle:   "Everything as a service..."
+description: "Falando sobre como enviar SMS com .NET e C# usando o Twilio."
+keywords: "SMS, C#, .NET, Twilio, Nuget"
 date:       2014-11-25 10:33:00
 dateShort:  "2014-11-25"
 author:     "Marcelo Palladino"

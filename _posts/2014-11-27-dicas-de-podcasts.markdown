@@ -3,6 +3,8 @@ layout:     post
 title:      "Dicas de Podcasts"
 titleToShare: "dicas-de-podcasts"
 subtitle:   "Ouvir, ouvir, ouvir"
+description: "Panhan falando sobre podcasts legais sobre desenvolvimento de software que ele anda escutando"
+keywords: "AngularJS, Podcast, TDD, Elemar Jr., Giovanni Bassi, Dicas, Tecnoretorica, Void Podcast"
 date:       2014-11-27 15:23:00
 dateShort:  "2014-11-27"
 author:     "Fabricio Panhan"
