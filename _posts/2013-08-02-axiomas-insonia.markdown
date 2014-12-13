@@ -2,6 +2,8 @@
 layout:     post
 title:      "Axiomas"
 titleToShare: "axiomas-insonia"
+description: "Falando sobre a rotina de um programador e como n&atilde;o cair na armadilha da acomoda&ccedil;&atilde;o"
+keywords: ""
 subtitle:   "(Ou um programador com ins&ocirc;nia)"
 date:       2013-08-02 23:38:00
 dateShort:  "2013-08-02"

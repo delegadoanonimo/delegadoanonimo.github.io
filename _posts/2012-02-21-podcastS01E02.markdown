@@ -3,6 +3,8 @@ layout:     post
 title:      "S01 E02 - O que estamos lendo"
 titleToShare: "podcastS01E02"
 subtitle:   "E a pilha de livros só cresce"
+description: "Podcast falando livros legais para programadores"
+keywords: "DDD, clean code, code complete, David Thomas, Uncle bob, Eric Evans"
 date:       2012-02-21 12:25
 dateShort:  "2012-02-21"
 author:     "Delegados"

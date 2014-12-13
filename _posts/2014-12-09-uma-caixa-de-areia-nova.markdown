@@ -3,6 +3,8 @@ layout:     post
 title:      "Uma caixa de areia nova"
 titleToShare: "uma-caixa-de-areia-nova"
 subtitle:   "Nada como um brinquedo novo no natal"
+description: "Delegados falando sobre a migra&ccedil;&atilde;o do blog para o github pages com Jekyll."
+keywords: "Jekyll, Github Pages"
 date:       2014-12-09 06:36:00
 dateShort:  "2014-12-09"
 author:     "Delegados"
