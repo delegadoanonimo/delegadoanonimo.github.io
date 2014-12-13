@@ -8,7 +8,7 @@ keywords: "AngularJS, Podcast, TDD, Elemar Jr., Giovanni Bassi, Dicas, Tecnoreto
 date:       2014-11-27 15:23:00
 dateShort:  "2014-11-27"
 author:     "Fabricio Panhan"
-header-img: "img/post-bg-dicas-de-podcasts.jpg"
+header-img: "img/2014-12/post-bg-dicas-de-podcasts.jpg"
 tags:
 - .NET Rocks Podcast,
 - AngularJS,

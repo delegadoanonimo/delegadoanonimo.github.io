@@ -8,7 +8,7 @@ keywords: "JSFiddle, CSS3, Ferramentas para desenvolvimento, HTML5, HTML, JavaSc
 date:       2014-11-19 07:33:00
 dateShort:  "2014-11-19"
 author:     "Marcelo Palladino"
-header-img: "img/post-bg-ferramentaslegaisparadesenvolvimento1.jpg"
+header-img: "img/2014-12/post-bg-ferramentaslegaisparadesenvolvimento1.jpg"
 tags:
 - CSS3,
 - Ferramentas,
@@ -28,7 +28,7 @@ tags:
 
 <p>Um dia destes tive que usar HTML e CSS3 para montar algo parecido com a figura abaixo em uma tabela de dados.</p>
 
-<img src="{{ site.url }}/img/ferramentaslegaisparadesenvolvimento1-lista.png" alt="Lista" class="img-responsive center-block">
+<img src="{{ site.url }}/img/2014-12/ferramentaslegaisparadesenvolvimento1-lista.png" alt="Lista" class="img-responsive center-block">
 
 <p>
     O requisito ainda previa uma anima&ccedil;&atilde;o para as barras conforme determinada condi&ccedil;&atilde;o,
@@ -36,7 +36,7 @@ tags:
     Para estas ocasi&otilde;es tenho utilizado o JSFiddle (<a target="_blank" href="http://jsfiddle.net/">http://jsfiddle.net/</a>)
 </p>
 
-<img src="{{ site.url }}/img/ferramentaslegaisparadesenvolvimento1-jsfiddle.png" alt="P&aacute;gina do JSFiddle" class="img-responsive center-block">
+<img src="{{ site.url }}/img/2014-12/ferramentaslegaisparadesenvolvimento1-jsfiddle.png" alt="P&aacute;gina do JSFiddle" class="img-responsive center-block">
 
 <p>
     Este tipo de ferramenta &eacute; incr&iacute;vel, pois d&aacute; a change de testar rapidamente a marca&ccedil;&atilde;o HTML, o javascript e o CSS. Voc&ecirc; simplesmente escreve o c&oacute;digo no painel apropriado e manda rodar para visualizar o resultado. Simples e objetivo, sem a necessidade de criar projeto, executar em servidor local ou qualquer outra coisa do g&ecirc;nero. Bem &aacute;gil mesmo...
@@ -153,7 +153,7 @@ $('.let-c').width(160);
     Perceba que eu usei o Jquery na parte de JavaScript. Sendo assim, &eacute; necess&aacute;rio configurar o fiddle para carreg&aacute;-lo. Isso &eacute; feito na parte de framework &amp; extensions. Agora &eacute; s&oacute; clicar em Run e ver o resultado...
 </p>
 
-<img src="{{ site.url }}/img/ferramentaslegaisparadesenvolvimento1-jsfiddle-run.png" alt="P&aacute;gina do JSFiddle mostrando resultado" class="img-responsive center-block">
+<img src="{{ site.url }}/img/2014-12/ferramentaslegaisparadesenvolvimento1-jsfiddle-run.png" alt="P&aacute;gina do JSFiddle mostrando resultado" class="img-responsive center-block">
 
 <p>
     Este fiddle pode ser encontrado no seguinte endere&ccedil;o:

@@ -8,7 +8,7 @@ keywords: "C&oacute;digo ruim, D&iacute;vida t&eacute;cnica, Qualidade de softwa
 date:       2014-11-28 08:48:00
 dateShort:  "2014-11-28"
 author:     "Fabricio Panhan"
-header-img: "img/post-bg-o-que-e-divida-tecnica.jpg"
+header-img: "img/2014-12/post-bg-o-que-e-divida-tecnica.jpg"
 tags:
 - C&oacute;digo ruim,
 - D&iacute;vida t&eacute;cnica,
