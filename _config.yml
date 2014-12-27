@@ -1,5 +1,5 @@
 # Site settings
-title: Delegado An&ocirc;nimo
+title: Delegado Anonimo
 email: delegadoanonimopodcast@gmail.com
 baseurl: "http://delegadoanonimo.github.io"
 url: ""
@@ -10,7 +10,7 @@ facebook_username:  DelegadoAnonimo
 # Build settings
 encoding: UTF-8
 markdown: kramdown
-highlighter: false
+highlighter: pygments
 permalink: pretty
 paginate: 5
 exclude: ["node_modules"]
