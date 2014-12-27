@@ -101,4 +101,4 @@ tags:
     At&eacute; mais!
 </p>
 
-<a href="https://github.com/mfpalladino/2DFE" target="_blank"><img src="{{ site.url }}/img/Octocat.jpg" alt="C&oacute;digo fonte utilizado no artigo" class="img-responsive center-block" style="cursor:pointer;"></a> 
+<a href="https://github.com/mfpalladino/2DFE" title="C&oacute;digo fonte utilizado no artigo" target="_blank"><img src="{{ site.url }}/img/Octocat.jpg" alt="C&oacute;digo fonte utilizado no artigo" class="img-responsive center-block" style="cursor:pointer;"></a> 
