@@ -194,3 +194,5 @@ namespace TwilioSample.Controllers
 <p>
     At&eacute; mais!
 </p>
+
+<a href="https://github.com/mfpalladino/twiliosample" target="_blank"><img src="{{ site.url }}/img/Octocat.jpg" alt="C&oacute;digo fonte utilizado no artigo" class="img-responsive center-block" style="cursor:pointer;"></a> 
