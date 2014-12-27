@@ -192,4 +192,4 @@ Bom, era isso. No pr&oacute;ximo artigo desta s&eacute;rie vou continuar exatame
     At&eacute; mais!
 </p>
 
-<a href="https://github.com/mfpalladino/PlayWithRoslyn" target="_blank"><img src="{{ site.url }}/img/Octocat.jpg" alt="C&oacute;digo fonte utilizado no artigo" class="img-responsive center-block"></a> 
+<a href="https://github.com/mfpalladino/PlayWithRoslyn" target="_blank"><img src="{{ site.url }}/img/Octocat.jpg" alt="C&oacute;digo fonte utilizado no artigo" class="img-responsive center-block" style="cursor:pointer;"></a> 
