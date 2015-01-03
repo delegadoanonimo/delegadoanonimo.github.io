@@ -10,14 +10,9 @@ dateShort:  "2014-12-14"
 author:     "Marcelo Palladino"
 header-img: "img/2014-12/post-bg-jellyard-2dfe.jpg"
 tags:
-- Desenvolvimento de jogos,
-- Game development,
-- Indie Game development,
-- Games 2D,
-- N&iacute;veis,
-- Level editor,
-- editor de fase
+- Desenvolvimento de jogos
 - Jellyhard
+- Startup
 ---
 
 <p>

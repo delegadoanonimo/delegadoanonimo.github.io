@@ -11,9 +11,9 @@ author:     "Marcelo Palladino"
 header-img: "img/2015-01/post-bg-algumas-novidades-csharp6.jpg"
 header-img-url: "http://www.dotnettoad.com/index.php?/archives/20-when-not-to-use-the-goto-keyword.html"
 tags:
-- Roslyn,
-- Visual Studio 2015,
-- C# 6
+- Roslyn
+- Visual Studio 2015
+- CSharp 6
 ---
 
 <h2 class="section-heading">Auto Property initializers</h2>

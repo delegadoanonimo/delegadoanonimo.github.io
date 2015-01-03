@@ -1,0 +1,8 @@
+<section>
+    <ul class="nav nav-list">
+        <li class="nav-header">Categorias</li>
+        {% for category in site.categories %}
+        <li><a href="/categories/{{category | first}}">{{category | first}} ({{category | last | size }})</a></li>
+        {% endfor %}
+    </ul>
+</section>

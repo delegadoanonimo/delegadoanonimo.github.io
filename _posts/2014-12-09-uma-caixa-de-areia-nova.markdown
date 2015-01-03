@@ -10,8 +10,7 @@ dateShort:  "2014-12-09"
 author:     "Delegados"
 header-img: "img/2014-12/post-bg-uma-caixa-de-areia-nova.jpg"
 tags:
-- Jekyll,
-- GitHub Pages
+- Jekyll
 ---
 
 <p>

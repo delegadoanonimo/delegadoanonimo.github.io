@@ -1,0 +1,10 @@
+<section>
+    <ul class="nav nav-list">
+        <li class="nav-header">&Uacute;ltimos posts</li>
+        {% for post in site.posts limit:10 %}
+        <li>
+            <a href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</section>
