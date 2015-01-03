@@ -10,16 +10,8 @@ dateShort:  "2012-05-08"
 author:     "Delegados"
 header-img: "img/2014-12/post-bg-03.jpg"
 tags:
-- Design Patterns,
-- Elemar Jr.,
-- Erich Gamma,
-- GoF,
-- John Vlissides,
-- Podcast,
-- Ralph Johnson,
-- Richard Helm,
-- S01,
-- Void Podcast
+- Design Patterns
+- Podcast
 ---
 
 <p>Fala a&iacute;, escovadores de bits! Sejam bem vindos a mais um Delegado An&ocirc;nimo.</p>

@@ -181,6 +181,20 @@ aside.sidebar {
     }
 
 
+.sidebar .nav-list {
+    font-size: 70%;
+}
+.sidebar .nav-header {
+    font-weight: bold;
+}
+
+.sidebar .nav-list {
+    font-size: 70%;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
 
 @media only screen and (min-width: 768px) {
 

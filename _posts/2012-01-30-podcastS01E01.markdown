@@ -10,11 +10,9 @@ dateShort:  "2012-01-30"
 author:     "Delegados"
 header-img: "img/2014-12/post-bg-01.jpg"
 tags:
-- Clean Code,
-- Code Complete,
-- Comentarios,
-- Podcast,
-- Uncle Bob
+- Clean Code
+- Code Complete
+- Podcast
 ---
 
 

@@ -11,9 +11,9 @@ author:     "Marcelo Palladino"
 header-img: "img/2014-12/post-bg-brincando-com-roslyn.jpg"
 header-img-url: "http://xkcd.com/303/"
 tags:
-- Roslyn,
-- Visual Studio 2015,
-- C# 6
+- Roslyn
+- Visual Studio 2015
+- CSharp 6
 ---
 
 <p>

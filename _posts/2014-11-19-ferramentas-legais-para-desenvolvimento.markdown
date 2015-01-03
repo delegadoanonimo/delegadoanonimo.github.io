@@ -10,11 +10,10 @@ dateShort:  "2014-11-19"
 author:     "Marcelo Palladino"
 header-img: "img/2014-12/post-bg-ferramentaslegaisparadesenvolvimento1.jpg"
 tags:
-- CSS3,
-- Ferramentas,
-- HTML,
-- JavaScript,
-- JSFiddle
+- CSS3
+- HTML
+- JavaScript
+- Ferramentas
 ---
 
 <p>

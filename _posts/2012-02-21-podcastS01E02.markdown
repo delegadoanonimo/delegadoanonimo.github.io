@@ -10,20 +10,10 @@ dateShort:  "2012-02-21"
 author:     "Delegados"
 header-img: "img/2014-12/post-bg-02.jpg"
 tags:
-- .NET Gadgeteer, 
-- .NET Micro Framework, 
-- .NET Rocks Podcast, 
-- Andrew Hunt, Arduino, 
-- Clean Code, 
-- Code Complete, 
-- David Thomas, 
-- DDD, 
-- Eric Evans, 
-- Netduino, 
-- Podcast, 
-- Programador Pragmático, 
-- Steve McConnell, 
-- Uncle Bob
+- Clean Code 
+- Code Complete 
+- DDD 
+- Podcast
 ---
 
 

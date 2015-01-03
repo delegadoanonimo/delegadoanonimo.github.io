@@ -10,16 +10,10 @@ dateShort:  "2014-11-27"
 author:     "Fabricio Panhan"
 header-img: "img/2014-12/post-bg-dicas-de-podcasts.jpg"
 tags:
-- .NET Rocks Podcast,
-- AngularJS,
-- Dicas,
-- Elemar Jr.,
-- Giovanni Bassi,
-- Grok Podcast,
-- Podcast,
-- TDD,
-- Tecnoretorica,
-- Void Podcast
+- AngularJS
+- Dicas
+- Podcast
+- TDD
 ---
 
 <p>

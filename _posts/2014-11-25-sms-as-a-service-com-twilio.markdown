@@ -10,13 +10,9 @@ dateShort:  "2014-11-25"
 author:     "Marcelo Palladino"
 header-img: "img/2014-12/post-bg-sms-as-a-service-com-twilio.jpg"
 tags:
-- ASP.NET MVC,
-- C#,
-- Cloud,
-- Services,
-- Servi&ccedil;os,
-- SMS,
-- Twilio
+- ASP.NET MVC
+- CSharp
+- Ferramentas
 ---
 
 <p>

@@ -10,11 +10,8 @@ dateShort:  "2014-11-28"
 author:     "Fabricio Panhan"
 header-img: "img/2014-12/post-bg-o-que-e-divida-tecnica.jpg"
 tags:
-- C&oacute;digo ruim,
-- D&iacute;vida t&eacute;cnica,
-- Qualidade,
-- Steve McConnell,
-- Ward Cunnigham
+- Qualidade de software
+- Clean code
 ---
 
 <p>
