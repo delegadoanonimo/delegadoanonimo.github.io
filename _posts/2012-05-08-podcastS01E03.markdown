@@ -4,7 +4,7 @@ title:      "S01 E03 - Design Patterns"
 titleToShare: "podcastS01E03"
 subtitle:   "O GoF &eacute; pop, o GoF n&atilde;o poupa ningu&eacute;m"
 description: "Podcast falando sobre padr&otilde;es de projeto"
-keywords: "Design Patterns, Rich Gamma, Elemar Jr., GoF, Richard Helm, John Vlissides, Ralph Johnson"
+keywords: "Design Patterns, Rich Gamma, Elemar, Jr., GoF, Richard Helm, John Vlissides, Ralph Johnson"
 date:       2012-05-08 21:53:00
 dateShort:  "2012-05-08"
 author:     "Delegados"
