@@ -29,7 +29,6 @@ tags:
     <li><a href="http://blogs.msdn.com/b/briankel/archive/2011/09/16/visual-studio-11-application-lifecycle-management-virtual-machine-and-hands-on-labs-demo-scripts.aspx">M&aacute;quina virtual e hands on (m&atilde;o na massa) do Brian Keller - Visual Studio 2012 Application Lifecycle Management Virtual Machine and Hands-on-Labs / Demo Scripts</a></li>
     <li><a href="http://channel9.msdn.com/Events/TechEd/Europe/2012/DEV213">Apresenta&ccedil;&atilde;o de Orville McDonald no TechEd europeu sobre as novidades do VS 2012</a></li>
 </ul>
-<br/>
 <h2 class="section-heading">Alguns v&iacute;deos do Brian Keller mostrando as novas funcionalidades do TFS:</h2>
 <ul>
     <li><a href="http://channel9.msdn.com/posts/Team-Foundation-Service-Preview-Introduction">Team Foundation Service Preview: Introduction</a></li>
@@ -41,7 +40,6 @@ tags:
     <li><a href="http://channel9.msdn.com/Events/TechEd/Europe/2012/DEV413">Apresenta&ccedil;&atilde;o do Bart De Smet mostrando o Reactive Extensions (Rx) no TechEd europeu</a></li>
     <li><a href="http://channel9.msdn.com/Events/TechEd/NorthAmerica/2011/FDN03">Apresenta&ccedil;&atilde;o do Cameron Skinner mostrando App Life Cycle no TechEd americano</a></li>
 </ul>
-<br/>
 <h2 class="section-heading">Playlist:</h2>
 <ul>
 	<li>Back To The Future OST - Alan Silvestri - Back To The Future</li>
