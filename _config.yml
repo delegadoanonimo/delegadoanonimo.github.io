@@ -1,7 +1,8 @@
 # Site settings
-title: Delegado An&ocirc;nimo
+title: Delegado Anônimo
 email: delegadoanonimopodcast@gmail.com
 baseurl: "http://delegadoanonimo.github.io"
+# baseurl: ""
 url: ""
 twitter_username: DelegadoAnonimo
 github_username:  DelegadoAnonimo
@@ -12,5 +13,7 @@ encoding: UTF-8
 markdown: kramdown
 highlighter: pygments
 permalink: pretty
+gems: [jekyll-paginate]
 paginate: 5
+paginate_path: "page:num"
 exclude: ["node_modules"]
