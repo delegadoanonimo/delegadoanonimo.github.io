@@ -2,7 +2,7 @@
 layout:     post
 title:      "Ferramentas legais para desenvolvimento WEB: JSFiddle"
 titleToShare: "ferramentas-legais-para-desenvolvimento"
-subtitle:   "JSFiddle, meu amigo zumbi (n&atilde;o, p&eacute;ra...)"
+subtitle:   "JSFiddle, meu amigo zumbi (não, péra...)"
 description: "Falando sobre ferramentas para desenvolvimento WEB e JSFiddle."
 keywords: "JSFiddle, CSS3, Ferramentas para desenvolvimento, HTML5, HTML, JavaScript, JScript"
 date:       2014-11-19 07:33:00
@@ -17,12 +17,12 @@ tags:
 ---
 
 <p>
-    &Eacute; comum durante qualquer tipo de desenvolvimento de software a necessidade de testar rapidamente alguma ideia. No backend eu (quase sempre) costumo fazer uso de testes de unidade e integra&ccedil;&atilde;o para validar minhas solu&ccedil;&otilde;es em rela&ccedil;&atilde;o aos requisitos e guiar meu desenvolvimento.
+    É comum durante qualquer tipo de desenvolvimento de software a necessidade de testar rapidamente alguma ideia. No backend eu (quase sempre) costumo fazer uso de testes de unidade e integração para validar minhas soluções em relação aos requisitos e guiar meu desenvolvimento.
 </p>
 
 <p>
-    No front, dependendo do caso, tamb&eacute;m gosto de utilizar testes de unidade. Criando fun&ccedil;&otilde;es utilit&aacute;rias,
-    classes e plugins jquery, por exemplo, um teste de unidade poupa um temp&atilde;o de idas e vindas no browser, al&eacute;m de tamb&eacute;m apoiar meu desenvolvimento. Algumas vezes, no entanto, tenho a necessidade de enxergar rapidamente alguma coisa enquanto ainda estou pensando em como resolver algo.
+    No front, dependendo do caso, também gosto de utilizar testes de unidade. Criando funções utilitárias,
+    classes e plugins jquery, por exemplo, um teste de unidade poupa um tempão de idas e vindas no browser, além de também apoiar meu desenvolvimento. Algumas vezes, no entanto, tenho a necessidade de enxergar rapidamente alguma coisa enquanto ainda estou pensando em como resolver algo.
 </p>
 
 <p>Um dia destes tive que usar HTML e CSS3 para montar algo parecido com a figura abaixo em uma tabela de dados.</p>
@@ -30,34 +30,34 @@ tags:
 <img src="{{ site.url }}/img/2014-12/ferramentaslegaisparadesenvolvimento1-lista.png" alt="Lista" class="img-responsive center-block">
 
 <p>
-    O requisito ainda previa uma anima&ccedil;&atilde;o para as barras conforme determinada condi&ccedil;&atilde;o,
-    ent&atilde;o eu tinha que ter uma forma r&aacute;pida de testar algumas coisas que pensava em fazer.
-    Para estas ocasi&otilde;es tenho utilizado o JSFiddle (<a target="_blank" href="http://jsfiddle.net/">http://jsfiddle.net/</a>)
+    O requisito ainda previa uma animação para as barras conforme determinada condição,
+    então eu tinha que ter uma forma rápida de testar algumas coisas que pensava em fazer.
+    Para estas ocasiões tenho utilizado o JSFiddle (<a target="_blank" href="http://jsfiddle.net/">http://jsfiddle.net/</a>)
 </p>
 
-<img src="{{ site.url }}/img/2014-12/ferramentaslegaisparadesenvolvimento1-jsfiddle.png" alt="P&aacute;gina do JSFiddle" class="img-responsive center-block">
+<img src="{{ site.url }}/img/2014-12/ferramentaslegaisparadesenvolvimento1-jsfiddle.png" alt="Página do JSFiddle" class="img-responsive center-block">
 
 <p>
-    Este tipo de ferramenta &eacute; incr&iacute;vel, pois d&aacute; a change de testar rapidamente a marca&ccedil;&atilde;o HTML, o javascript e o CSS. Voc&ecirc; simplesmente escreve o c&oacute;digo no painel apropriado e manda rodar para visualizar o resultado. Simples e objetivo, sem a necessidade de criar projeto, executar em servidor local ou qualquer outra coisa do g&ecirc;nero. Bem &aacute;gil mesmo...
-</p>
-
-<p>
-    O JSFiddle tem um suporte (bem) mais ou menos para zen coding, e permite carregar os mais recentes frameworks e recursos externos &quot;para dentro&quot; do seu fiddle.
+    Este tipo de ferramenta é incrível, pois dá a change de testar rapidamente a marcação HTML, o javascript e o CSS. Você simplesmente escreve o código no painel apropriado e manda rodar para visualizar o resultado. Simples e objetivo, sem a necessidade de criar projeto, executar em servidor local ou qualquer outra coisa do gênero. Bem ágil mesmo...
 </p>
 
 <p>
-    &Eacute; poss&iacute;vel escrever c&oacute;digo em coffeescript e SCSS, mas ele n&atilde;o suporta LESS e TypeScript, o que eu lamento muito. T&aacute;, eu sei que existem algumas gambiarras para &quot;usar&quot; LESS, mas n&atilde;o &eacute; uma parada legal pr&aacute; caramba de de ser feita.
+    O JSFiddle tem um suporte (bem) mais ou menos para zen coding, e permite carregar os mais recentes frameworks e recursos externos 'para dentro' do seu fiddle.
 </p>
 
 <p>
-    Tamb&eacute;m h&aacute; como validar o c&oacute;digo JS (JSHint), identar o c&oacute;digo (TidyUp) al&eacute;m de uma surpreendente possibilidade de colabora&ccedil;&atilde;o (collaboration), o que &eacute; &oacute;timo para quem est&aacute; pareando remotamente.
-    Por fim, ainda h&aacute; a possibilidade de tornar seus fiddles p&uacute;blicos e forkar outros, no melhor estilo c&oacute;digo aberto.
+    É possível escrever código em coffeescript e SCSS, mas ele não suporta LESS e TypeScript, o que eu lamento muito. Tá, eu sei que existem algumas gambiarras para 'usar' LESS, mas não é uma parada legal prá caramba de de ser feita.
 </p>
 
-<h2 class="section-heading">Um pouco de m&atilde;o na massa</h2>
+<p>
+    Também há como validar o código JS (JSHint), identar o código (TidyUp) além de uma surpreendente possibilidade de colaboração (collaboration), o que é ótimo para quem está pareando remotamente.
+    Por fim, ainda há a possibilidade de tornar seus fiddles pÚblicos e forkar outros, no melhor estilo código aberto.
+</p>
+
+<h2 class="section-heading">Um pouco de mão na massa</h2>
 
 <p>
-    Ent&atilde;o &quot;b&oacute;ra&quot; l&aacute; fazer um teste r&aacute;pido no JSFiddle. No painel HTML, coloque o seguinte c&oacute;digo:
+    Então "bóra" lá fazer um teste rápido no JSFiddle. No painel HTML, coloque o seguinte código:
 </p>
 
 {% highlight html linenos %}
@@ -149,22 +149,22 @@ $('.let-c').width(160);
 {% endhighlight %}
 
 <p>
-    Perceba que eu usei o Jquery na parte de JavaScript. Sendo assim, &eacute; necess&aacute;rio configurar o fiddle para carreg&aacute;-lo. Isso &eacute; feito na parte de framework &amp; extensions. Agora &eacute; s&oacute; clicar em Run e ver o resultado...
+    Perceba que eu usei o Jquery na parte de JavaScript. Sendo assim, é necessário configurar o fiddle para carregá-lo. Isso é feito na parte de framework & extensions. Agora é só clicar em Run e ver o resultado...
 </p>
 
-<img src="{{ site.url }}/img/2014-12/ferramentaslegaisparadesenvolvimento1-jsfiddle-run.png" alt="P&aacute;gina do JSFiddle mostrando resultado" class="img-responsive center-block">
+<img src="{{ site.url }}/img/2014-12/ferramentaslegaisparadesenvolvimento1-jsfiddle-run.png" alt="Página do JSFiddle mostrando resultado" class="img-responsive center-block">
 
 <p>
-    Este fiddle pode ser encontrado no seguinte endere&ccedil;o:
+    Este fiddle pode ser encontrado no seguinte endereço:
     <a target="_blank" href="http://jsfiddle.net/mfpalladino/2n5fhrzk/">http://jsfiddle.net/mfpalladino/2n5fhrzk/</a>.
 </p>
 
-<h2 class="section-heading">O que vem por a&iacute;?</h2>
+<h2 class="section-heading">O que vem por aí?</h2>
 
 <p>
-Nos pr&oacute;ximos artigos vou dar sequ&ecirc;ncia falando sobre alternativas ao JSFiddle. Voc&ecirc; conhece alguma ferramenta obscura que gostaria de compartilhar e ver comentada aqui? Tem algum recurso do JSFiddle que voc&ecirc; utiliza, que &eacute; animal e que n&atilde;o foi comentado? Manda nos coment&aacute;rios e continuamos o papo l&aacute;.
+Nos próximos artigos vou dar sequência falando sobre alternativas ao JSFiddle. Você conhece alguma ferramenta obscura que gostaria de compartilhar e ver comentada aqui? Tem algum recurso do JSFiddle que você utiliza, que é animal e que não foi comentado? Manda nos comentários e continuamos o papo lá.
 </p>
 
 <p>
-At&eacute; mais!
+Até mais!
 </p>

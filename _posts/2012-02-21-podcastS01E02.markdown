@@ -3,7 +3,7 @@ layout:     post
 title:      "S01 E02 - O que estamos lendo"
 titleToShare: "podcastS01E02"
 subtitle:   "E a pilha de livros só cresce"
-description: "Podcast falando livros legais para programadores"
+description: "Podcast falando sobre livros legais para programadores"
 keywords: "DDD, clean code, code complete, David Thomas, Uncle bob, Eric Evans"
 date:       2012-02-21 12:25
 dateShort:  "2012-02-21"
@@ -18,17 +18,17 @@ tags:
 
 
 <p>
-    Fala a&iacute;, escovadores de bits! Sejam bem vindos a mais um Delegado An&ocirc;nimo.
+    Fala aí, escovadores de bits! Sejam bem vindos a mais um Delegado Anônimo.
 </p>
 <p>
     Hoje, Pequeno Padawan (<a href="http://www.twitter.com/fpanhan">@fpanhan</a>), Marcelo Palladino (<a href="http://www.twitter.com/mfpalladino">@mfpalladino</a>) e Cristiano Amorim (<a href="http://www.twitter.com/cristianosaa">@cristianosaa</a>)
     falam sobre o que estão lendo.
 </p>
 <p>
-    Neste epis&oacute;dio, conhe&ccedil;a as opini&otilde;es dos delegados sobre os livros, confira os twitts novel&iacute;sticos do Palladino, o surpreendente sotaque franc&ecirc;s do Panhan e o indefect&iacute;vel gosto musical do Amorim. ;)
+    Neste episódio, conheça as opiniões dos delegados sobre os livros, confira os twitts novelísticos do Palladino, o surpreendente sotaque francês do Panhan e o indefectível gosto musical do Amorim. ;)
 </p>
 
-<h2 class="section-heading">Gloss&aacute;rio || Links || Dicas</h2>
+<h2 class="section-heading">Glossário || Links || Dicas</h2>
 
 <ul>
     <li><a href="http://en.wikipedia.org/wiki/Brownfield_%28software_development%29" target="_blank">Brownfield</a></li>
@@ -55,7 +55,7 @@ tags:
 <h2 class="section-heading">Comente!</h2>
 
 <p>
-    N&oacute;s adorar&iacute;amos conhecer suas opini&otilde;es sobre nosso programa. Por isso, sinta-se a vontade para deixar seu coment&aacute;rio ou nos enviar um e-mail com suas (opini&otilde;es || cr&iacute;ticas || sugest&otilde;es).
+    Nós adoraríamos conhecer suas opiniões sobre nosso programa. Por isso, sinta-se a vontade para deixar seu comentário ou nos enviar um e-mail com suas (opiniões || críticas || sugestões).
 </p>
 
 <ul>
@@ -68,7 +68,7 @@ tags:
 <p>
     <audio controls>
         <source src="http://media.blubrry.com/delegadoanonimo/www.archive.org/download/DelegadoAnnimoS01E02-OQueEstamosLendo/02DelegadoAnonimoS01E02-OqueEstamosLendo.mp3" type="audio/mpeg">
-        Aparentemente seu browser n&atilde;o suporta &aacute;udio.
+        Aparentemente seu browser não suporta áudio.
     </audio>
 </p>
 
