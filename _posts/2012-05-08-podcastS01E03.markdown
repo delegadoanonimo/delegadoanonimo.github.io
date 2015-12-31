@@ -57,7 +57,7 @@ tags:
     <li>Jennifer Lopez - Dance Again (Feat. Pitbull)</li>
     <li>Katy Perry - Part of Me</li>
     <li>Coldplay - Paradise</li>
-    <li>David Guetta feat. Nicki Minaj & Flo Rida - Where Them Girls At</li>
+    <li>David Guetta feat. Nicki Minaj &amp; Flo Rida - Where Them Girls At</li>
 </ul>
 
 <p><strong>Duração:</strong> 33 minutos (~ 31 Mb)</p>

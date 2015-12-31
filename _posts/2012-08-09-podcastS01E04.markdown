@@ -1,0 +1,79 @@
+---
+layout:     post
+title:      "S01 E04 - Visual Studio 2012 e a Plataforma de Desenvolvimento da Microsoft"
+titleToShare: "podcastS01E04"
+subtitle:   "#OdeioMenuCaixaAlta"
+description: "Podcast falando sobre VS 2012 e a Plataforma de Desenvolvimento da Microsoft"
+keywords: "Code Compare, Team System, TFS, Visual Studio 2012"
+date:       2012-08-09 08:26:00
+dateShort:  "2012-08-09"
+author:     "Delegados"
+header-img: "img/2014-12/post-bg-04.jpg"
+tags:
+- Code Compare
+- Team System
+- TFS
+- Visual Studio 2012
+- Podcast
+---
+
+<p>Fala a&iacute;, escovadores de bits! Sejam bem vindos a mais um Delegado An&ocirc;nimo.</p>
+<p>Hoje, Pequeno Padawan (<a href="http://www.twitter.com/fpanhan">@fpanhan</a>), Marcelo Palladino (<a href="http://www.twitter.com/mfpalladino">@mfpalladino</a>) e Cristiano Amorim (<a href="http://www.twitter.com/cristianosaa">@cristianosaa</a>) falam sobre as novidades do Visual Studio 2012 e a Plataforma de Desenvolvimento da Microsoft.</p>
+<p>Neste epis&oacute;dio, saiba um pouco sobre a leva de novidades do Visual Studio 2012.</p>
+<p>Al&eacute;m disto, saiba quais s&atilde;o os servi&ccedil;os extras do Palladino e a hashtag criada em homenagem ao Cristiano Amorim. ;-)</p>
+
+<h2 class="section-heading">Gloss&aacute;rio || Links || Dicas</h2>
+<ul>
+    <li><a href="http://www.microsoft.com/visualstudio/11/en-us">P&aacute;gina do Visual Studio 2012</a></li>
+    <li><a href="http://msdn.microsoft.com/en-us/library/hh301772%28VS.110%29.aspx">Como est&aacute; distribu&iacute;da a arquitetura da plataforma de desenvolvimento</a></li>
+    <li><a href="http://blogs.msdn.com/b/briankel/archive/2011/09/16/visual-studio-11-application-lifecycle-management-virtual-machine-and-hands-on-labs-demo-scripts.aspx">M&aacute;quina virtual e hands on (m&atilde;o na massa) do Brian Keller - Visual Studio 2012 Application Lifecycle Management Virtual Machine and Hands-on-Labs / Demo Scripts</a></li>
+    <li><a href="http://channel9.msdn.com/Events/TechEd/Europe/2012/DEV213">Apresenta&ccedil;&atilde;o de Orville McDonald no TechEd europeu sobre as novidades do VS 2012</a></li>
+</ul>
+<h2 class="section-heading">Alguns v&iacute;deos do Brian Keller mostrando as novas funcionalidades do TFS:</h2>
+<ul>
+    <li><a href="http://channel9.msdn.com/posts/Team-Foundation-Service-Preview-Introduction">Team Foundation Service Preview: Introduction</a></li>
+    <li><a href="http://channel9.msdn.com/posts/Team-Foundation-Service-Preview-Getting-Started">Team Foundation Service Preview: Getting Started</a></li>
+    <li><a href="http://channel9.msdn.com/posts/Team-Foundation-Service-Preview-Managing-Security">Team Foundation Service Preview: Managing Security</a></li>
+    <li><a href="http://channel9.msdn.com/posts/Team-Foundation-Service-Preview-Agile-Project-Management">Team Foundation Service Preview: Agile Project Management</a></li>
+    <li><a href="http://channel9.msdn.com/posts/Team-Foundation-Service-Preview-Using-Visual-Studio-Microsoft-Test-Manager-and-Eclipse">Team Foundation Service Preview: Using Visual Studio, Microsoft Test Manager, and Eclipse</a></li>
+    <li><a href="http://channel9.msdn.com/posts/Team-Foundation-Service-Preview-Team-Build">Team Foundation Service Preview: Team Build</a></li>
+    <li><a href="http://channel9.msdn.com/Events/TechEd/Europe/2012/DEV413">Apresenta&ccedil;&atilde;o do Bart De Smet mostrando o Reactive Extensions (Rx) no TechEd europeu</a></li>
+    <li><a href="http://channel9.msdn.com/Events/TechEd/NorthAmerica/2011/FDN03">Apresenta&ccedil;&atilde;o do Cameron Skinner mostrando App Life Cycle no TechEd americano</a></li>
+</ul>
+<h2 class="section-heading">Playlist:</h2>
+<ul>
+	<li>Back To The Future OST - Alan Silvestri - Back To The Future</li>
+	<li>Armas Marciais - Os Ninjas do Arrocha</li>
+	<li>Zeitgeist - Smashing Pumpkins - Doomsday Clock</li>
+	<li>Elements Pt 1 - Stratovarius - Soul of a Vagabond</li>
+	<li>Avantasia - Avantasia - Farewell</li>
+	<li>Life - Talisman - Body</li>
+	<li>Rocky IV OST - Survivor - Burning Heart</li>
+	<li>Load - Metallica - Until It Sleeps</li>
+	<li>Load - Metallica - Hero Of The Day</li>
+	<li>The Incredibles OST - Michael Giacchino - The Glory Days</li>
+	<li>Mission Impossible II OST - Limp Biskit - Mission Impossible</li>
+	<li>Mission Impossible OST - Adam Clayton &amp; Larry Mullen - Mission Impossible</li>
+	<li>Transformers Soundtrack (2007) - HIM - Passion's Killing Floor</li>
+	<li>Grasping For Hope in the Darkness - Critical Mass - Carry on Wayward Son</li>
+	<li>Team Fortres 2 Theme</li>
+</ul>
+
+<p><strong>Dura&ccedil;&atilde;o:</strong> 55 minutos (~ 52 Mb)</p>
+
+<h2 class="section-heading">Comente!</h2>
+<p>
+    N&oacute;s adorar&iacute;amos conhecer suas opini&otilde;es sobre nosso programa. Por isso, sinta-se a vontade para deixar seu coment&aacute;rio ou nos enviar um e-mail com suas (opini&otilde;es || cr&iacute;ticas || sugest&otilde;es).
+</p>
+<ul>
+    <li>Email: <a href="mailto:delegadoanonimopodcast@gmail.com">delegadoanonimopodcast@gmail.com</a></li>
+    <li>Twitter: <a href="http://www.twitter.com/delegadoanonimo">@delegadoanonimo</a></li>
+    <li>Facebook: <a href="http://www.facebook.com/delegadoanonimo">fb.me/delegadoanonimo</a></li>
+    <li>Google+: Quem usa isto?</li>
+</ul>
+<p>
+    <audio controls>
+        <source src="http://media.blubrry.com/delegadoanonimo/www.archive.org/download/S01E04-VisualStudio2012EAPlataformaDeDesenvolvimentoDaMicrosoft/04DelegadoAnonimoS01E04-VS2012.mp3" type="audio/mpeg">
+        Aparentemente seu browser n&atilde;o suporta &aacute;udio.
+    </audio>
+</p>
