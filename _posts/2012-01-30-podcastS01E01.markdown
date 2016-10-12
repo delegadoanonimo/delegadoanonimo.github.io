@@ -25,7 +25,7 @@ tags:
 </p>
 <p>
     Ainda neste episódio, aprenda uma forma de identificar um projeto Titanic e compartilhe uma história de
-    um verdadeiro exorcista de códigos. :-D 
+    um verdadeiro exorcista de códigos. :-D
 </p>
 
 <h2 class="section-heading">Livros usados como referência</h2>
@@ -57,8 +57,8 @@ tags:
 
 <p>
     <audio controls>
-      <source src="http://media.blubrry.com/delegadoanonimo/www.archive.org/download/DelegadoAnnimoS01e01-SemComentrios/01DelegadoAnonimoS01E01-Semcomentarios.mp3" type="audio/mpeg">
-      Aparentemente seu browser não suporta áudio.
+        <source src="http://media.blubrry.com/delegadoanonimo/www.archive.org/download/DelegadoAnnimoS01e01-SemComentrios/01DelegadoAnonimoS01E01-Semcomentarios.mp3" type="audio/mpeg">
+        Aparentemente seu browser não suporta áudio.
     </audio>
 </p>
 

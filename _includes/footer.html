@@ -43,17 +43,16 @@
                     </li>
                     {% endif %}
                 </ul>
-                <p class="copyright text-muted">Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
+                <div class="footer-copyright">
+                    <div class="container">
+                        <i class="fa fa-code tiny"></i> with <i class="fa fa-heart tiny"></i> and some <i class="fa fa-coffee tiny"></i> by {{ site.title }} {{ site.time | date: '%Y' }}
+                    </div>
+                </div>
             </div>
         </div>
     </div>
 </footer>
-
-<!-- jQuery -->
-<script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script>
-
-<!-- Bootstrap Core JavaScript -->
-<script src="{{ "/js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
-
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 <!-- Custom Theme JavaScript -->
 <script src="{{ "/js/clean-blog.min.js " | prepend: site.baseurl }}"></script>
