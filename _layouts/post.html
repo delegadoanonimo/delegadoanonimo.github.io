@@ -7,7 +7,7 @@ layout: default
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <a href="{{ page.header-img-url }}" target="_blank"><img src="{{ site.url }}/{{ page.header-img }}" alt="Piadinha" class="img-responsive" style="cursor:pointer;" /></a> 
+                <a href="{{ page.header-img-url }}" target="_blank"><img src="{{ site.url }}/{{ page.header-img }}" alt="Piadinha" class="img-responsive" style="cursor:pointer;" /></a>
                 <div class="post-heading">
                     <h1>{{ page.title }}</h1>
                     {% if page.subtitle %}
@@ -21,9 +21,7 @@ layout: default
 </header>
 <!-- Post Content -->
 <article>
-
     <aside class="sidebar">
-
         {% if page.author == "Marcelo Palladino" %}
         {% include marcelopalladino.html %}
         {% elsif page.author == "Fabricio Panhan" %}
@@ -33,7 +31,6 @@ layout: default
         {% endif %}
 
         {% include lastarticles.html %}
-
     </aside>
 
     <div class="container">
@@ -62,15 +59,15 @@ layout: default
                         </div>
                     </div>
                 </div>
-                
+
                 <div id="disqus_thread"></div>
-                <script type="text/javascript">
-                    var disqus_shortname = 'delegadoanonimo'; // required: replace example with your forum shortname
+                <script>
+                    var disqus_shortname = "delegadoanonimo";
 
                     (function () {
-                        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-                        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                        var dsq = document.createElement("script"); dsq.type = "text/javascript"; dsq.async = true;
+                        dsq.src = "//" + disqus_shortname + ".disqus.com/embed.js";
+                        (document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]).appendChild(dsq);
                     })();
                 </script>
                 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
@@ -94,14 +91,14 @@ layout: default
 </article>
 <hr>
 
-<script type="text/javascript">
+<script>
     window.onload = function () {
         var blogDomain = "http%3A%2F%2Fdelegadoanonimo.github.io" + "%2F";
         var pageTitle = "{{ page.titleToShare }}";
-        var pageTitleDashes = pageTitle.replace(/ /g, '-') + "%2F&amp;";
-        var pageTitleSpaces = pageTitle.replace(/ /g, '%20') + "&amp;";
+        var pageTitleDashes = pageTitle.replace(/ /g, "-") + "%2F&amp;";
+        var pageTitleSpaces = pageTitle.replace(/ /g, "%20") + "&amp;";
         var pageDateShort = "{{ page.dateShort }}";
-        var pageDateShortSlashes = pageDateShort.replace(/-/g, '%2F') + "%2F";
+        var pageDateShortSlashes = pageDateShort.replace(/-/g, "%2F") + "%2F";
 
         var twitterPartOne = "https://twitter.com/intent/tweet?original_referer=";
         var twitterPartTwo = "text=";
@@ -110,7 +107,7 @@ layout: default
         var twitterUrl = twitterPartOne + blogDomain + pageDateShortSlashes + pageTitle + twitterPartTwo + pageTitleSpaces + twitterPartThree + blogDomain + pageDateShortSlashes + pageTitleDashes + twitterPartFour;
         var twitterLink = window.document.getElementById("twitter-link");
         twitterLink.onclick = function () {
-            var popUp = window.open(twitterUrl, 'popupwindow', 'scrollbars=yes,width=600,height=400');
+            var popUp = window.open(twitterUrl, "popupwindow", "scrollbars=yes,width=600,height=400");
             popUp.focus();
             return false;
         };
@@ -121,7 +118,7 @@ layout: default
         var facebookUrl = facebookPartOne + blogDomain + pageDateShortSlashes + pageTitleDashes + facebookPartTwo + pageTitleSpaces + facebookPartFour;
         var facebookLink = window.document.getElementById("facebook-link");
         facebookLink.onclick = function () {
-            var popUp = window.open(facebookUrl, 'popupwindow', 'scrollbars=yes,width=600,height=400');
+            var popUp = window.open(facebookUrl, "popupwindow", "scrollbars=yes,width=600,height=400");
             popUp.focus();
             return false;
         };
